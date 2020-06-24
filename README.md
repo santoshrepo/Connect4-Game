@@ -1,7 +1,5 @@
 # RMIT AI - Connect4
 
-![screenshot](https://github.com/StevenKorevaar/ai1901-connectfour/blob/master/img/game_example-small.gif)
-
 ## About The Game
 
 Connect 4 is a two-player game in which the players take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the next available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
